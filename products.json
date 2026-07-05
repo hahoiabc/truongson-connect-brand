@@ -2,7 +2,7 @@
   "cong_ty": {
     "ten": "Trường Sơn Connect",
     "slogan": "Đơn giản — Hiệu quả",
-    "gioi_thieu": "Trường Sơn Connect xây dựng các nền tảng kết nối và quản lý cho doanh nghiệp Việt Nam: sàn giao dịch ngành hàng, quản lý bán hàng cho chuỗi lớn lẫn cửa hàng nhỏ, quản lý nhà cho thuê, và tài chính cá nhân.",
+    "gioi_thieu": "Trường Sơn Connect xây dựng các nền tảng kết nối và quản lý cho doanh nghiệp Việt Nam: sàn giao dịch ngành hàng, quản lý bán hàng cho chuỗi lớn lẫn cửa hàng nhỏ, quản lý nhà cho thuê, kế toán số liệu doanh nghiệp, và tài chính cá nhân.",
     "website": "https://truongsonconnect.vn",
     "email": "truongsonconect2026@gmail.com",
     "dien_thoai": "0968660799",
@@ -11,7 +11,8 @@
   "san_pham": [
     { "id": "nhachothue365", "icon": "🏠", "ten": "NhaChoThue 365", "mo_ta": "Quản lý nhà cho thuê theo giờ, ngày, tháng", "url": "https://nhachothue-365.vn" },
     { "id": "sangiagao",     "icon": "🌾", "ten": "Sàn Giá Gạo",     "mo_ta": "Nền tảng giao dịch giá gạo", "url": "" },
-    { "id": "sell365",       "icon": "🏪", "ten": "Sell 365",        "mo_ta": "Quản lý bán lẻ đa chi nhánh & kế toán 365", "url": "" },
+    { "id": "sell365",       "icon": "🏪", "ten": "Sell 365",        "mo_ta": "Quản lý bán hàng đa chi nhánh", "url": "" },
+    { "id": "ketoan365",     "icon": "📊", "ten": "Kế toán 365",     "mo_ta": "Quản lý số liệu doanh nghiệp", "url": "" },
     { "id": "banhang365",    "icon": "🛒", "ten": "Bán hàng 365",    "mo_ta": "Ứng dụng bán hàng offline", "url": "" },
     { "id": "money365",      "icon": "💰", "ten": "Money 365",       "mo_ta": "Quản lý tài chính cá nhân", "url": "" }
   ]
